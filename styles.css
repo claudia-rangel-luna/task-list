@@ -1,0 +1,19 @@
+body {
+	background-color: lightgrey;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+h2 {
+	text-align: center;
+	padding-top: 50px;
+}
+main input {
+	height: 50px;
+	
+}
+.box {
+	border: 1px solid black;
+	height: 50px;
+}
+
